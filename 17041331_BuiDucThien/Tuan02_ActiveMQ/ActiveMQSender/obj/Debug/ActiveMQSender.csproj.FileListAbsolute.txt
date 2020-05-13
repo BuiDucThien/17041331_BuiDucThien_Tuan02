@@ -1,0 +1,17 @@
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\ActiveMQSender.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.xml
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.csprojResolveAssemblyReference.cache
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\obj\Debug\ActiveMQSender.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.Test.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.Test.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.Test.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.ActiveMQ.Test.xml
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQSender\bin\Debug\Apache.NMS.Test.pdb

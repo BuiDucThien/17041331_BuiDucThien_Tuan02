@@ -1,0 +1,22 @@
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.Form1.resources
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\BusinessObjects.exe
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\BusinessObjects.pdb
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+D:\Kiến trúc và thiết kế\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\BusinessObjects.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\bin\Debug\BusinessObjects.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.Form1.resources
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_MSMQ\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache

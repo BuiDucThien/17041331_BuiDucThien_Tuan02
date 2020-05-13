@@ -1,0 +1,11 @@
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\ActiveMQReceive.exe.config
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\obj\Debug\ActiveMQReceive.csprojResolveAssemblyReference.cache
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\ActiveMQReceive.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\ActiveMQReceive.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\Apache.NMS.ActiveMQ.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\Apache.NMS.dll
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\Apache.NMS.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\Apache.NMS.ActiveMQ.pdb
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\bin\Debug\Apache.NMS.ActiveMQ.xml
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\obj\Debug\ActiveMQReceive.exe
+F:\Desktop\Programming\Kiến trúc và thiết kế phần mềm\Tuan02\17041331_BuiDucThien\Tuan02_ActiveMQ\ActiveMQReceive\obj\Debug\ActiveMQReceive.pdb
